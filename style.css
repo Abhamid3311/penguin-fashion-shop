@@ -1,0 +1,15 @@
+.cmn-btn{
+    background-color: green;
+    
+}
+.header-titel{
+    font-size: 50px;
+}
+.price{
+    font-size: 36px;
+    color: #FABE4C;
+}
+body{
+    max-width: 100%;
+    margin: 0 auto;
+}
